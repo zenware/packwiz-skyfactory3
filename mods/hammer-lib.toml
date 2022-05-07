@@ -1,0 +1,13 @@
+name = "Hammer Lib"
+filename = "HammerCore-1.10.2-1.9.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2463/951/HammerCore-1.10.2-1.9.4.3.jar"
+hash-format = "sha1"
+hash = "b9628f10a21af7748466d635a3f5279493ecb47b"
+
+[update]
+[update.curseforge]
+file-id = 2463951
+project-id = 247401

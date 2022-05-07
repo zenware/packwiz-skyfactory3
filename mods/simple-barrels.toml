@@ -1,0 +1,13 @@
+name = "Simple Barrels"
+filename = "simplebarrels-1.26e.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2367/477/simplebarrels-1.26e.jar"
+hash-format = "sha1"
+hash = "16f8a2dabd9f4b7fece8b107f98423ccc2dbe5df"
+
+[update]
+[update.curseforge]
+file-id = 2367477
+project-id = 246737

@@ -1,0 +1,13 @@
+name = "Bookshelf"
+filename = "Bookshelf-1.10.2-1.4.4.347.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2401/566/Bookshelf-1.10.2-1.4.4.347.jar"
+hash-format = "sha1"
+hash = "ea22707ca40cd4848668f19000bb2784368fad4e"
+
+[update]
+[update.curseforge]
+file-id = 2401566
+project-id = 228525

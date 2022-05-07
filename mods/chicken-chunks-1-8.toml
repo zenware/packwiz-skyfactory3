@@ -1,0 +1,13 @@
+name = "Chicken Chunks 1.8.+"
+filename = "ChickenChunks-1.10.2-2.2.0.52-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2356/885/ChickenChunks-1.10.2-2.2.0.52-universal.jar"
+hash-format = "sha1"
+hash = "6a76c825bcb77feb70f1a1b83916a487fa8ad039"
+
+[update]
+[update.curseforge]
+file-id = 2356885
+project-id = 243883

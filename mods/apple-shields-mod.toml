@@ -1,0 +1,13 @@
+name = "Apple Shields Mod"
+filename = "AppleShields-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2367/533/AppleShields-0.1.7.jar"
+hash-format = "sha1"
+hash = "5c75bbbc4e7207f61d0e5a0e2be2e4e23d380fdc"
+
+[update]
+[update.curseforge]
+file-id = 2367533
+project-id = 247031

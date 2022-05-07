@@ -1,0 +1,13 @@
+name = "HydroGel"
+filename = "hydrogel-0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2349/516/hydrogel-0.9.jar"
+hash-format = "sha1"
+hash = "5a049df52d39e98ca924555f4f6d705a710b19c6"
+
+[update]
+[update.curseforge]
+file-id = 2349516
+project-id = 254229

@@ -1,0 +1,13 @@
+name = "ShadowMC"
+filename = "ShadowMC-1.10.2-3.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2362/16/ShadowMC-1.10.2-3.6.1.jar"
+hash-format = "sha1"
+hash = "a6fd729e61594d33978e2684d812f568c51775e1"
+
+[update]
+[update.curseforge]
+file-id = 2362016
+project-id = 226780

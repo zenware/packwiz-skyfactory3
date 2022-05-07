@@ -1,0 +1,13 @@
+name = "Flux Networks"
+filename = "FluxNetworks-1.10.2-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2480/925/FluxNetworks-1.10.2-1.2.8.jar"
+hash-format = "sha1"
+hash = "02549dccfc669f6f835286a317cec3c55acae173"
+
+[update]
+[update.curseforge]
+file-id = 2480925
+project-id = 248020

@@ -1,0 +1,13 @@
+name = "Hopper Ducts"
+filename = "hopperducts-mc1.9.4-1.4.8.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2450/379/hopperducts-mc1.9.4-1.4.8.1.jar"
+hash-format = "sha1"
+hash = "4c9a0e69cb6e6b8b55b29a241c457374e145d2c2"
+
+[update]
+[update.curseforge]
+file-id = 2450379
+project-id = 72210

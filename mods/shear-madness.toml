@@ -1,0 +1,13 @@
+name = "Shear Madness"
+filename = "shearmadness-1.10.2-1.7.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2564/384/shearmadness-1.10.2-1.7.1.6.jar"
+hash-format = "sha1"
+hash = "7aa8e353596b7945d7d38e842b99269b701974b5"
+
+[update]
+[update.curseforge]
+file-id = 2564384
+project-id = 250109

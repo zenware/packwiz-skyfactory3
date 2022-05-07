@@ -1,0 +1,13 @@
+name = "Literal Ascension"
+filename = "literalascension-1.10.2-1.0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2417/828/literalascension-1.10.2-1.0.2.2.jar"
+hash-format = "sha1"
+hash = "350bf8ba73d88912fe1773261c0eb955805f0669"
+
+[update]
+[update.curseforge]
+file-id = 2417828
+project-id = 253021

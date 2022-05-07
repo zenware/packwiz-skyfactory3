@@ -1,0 +1,13 @@
+name = "Charset (1.10.x)"
+filename = "Charset-0.3.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2529/786/Charset-0.3.9.jar"
+hash-format = "sha1"
+hash = "c9dcb8cd5745da4799f77375bad2289024f4fec4"
+
+[update]
+[update.curseforge]
+file-id = 2529786
+project-id = 246634

@@ -1,0 +1,13 @@
+name = "Mantle"
+filename = "Mantle-1.10.2-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2380/279/Mantle-1.10.2-1.1.5.jar"
+hash-format = "sha1"
+hash = "bc97963b4eb7caa59dfbb5a56f7c3b2a28da2b9f"
+
+[update]
+[update.curseforge]
+file-id = 2380279
+project-id = 74924

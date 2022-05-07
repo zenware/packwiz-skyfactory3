@@ -1,0 +1,13 @@
+name = "B.A.S.E"
+filename = "base-1.10.2-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2427/63/base-1.10.2-1.4.0.jar"
+hash-format = "sha1"
+hash = "76f00e891c5b74c71fecc975740cdd3130e63551"
+
+[update]
+[update.curseforge]
+file-id = 2427063
+project-id = 246996

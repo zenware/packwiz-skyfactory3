@@ -1,0 +1,13 @@
+name = "Common Capabilities"
+filename = "CommonCapabilities-1.9.4-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2421/841/CommonCapabilities-1.9.4-1.3.3.jar"
+hash-format = "sha1"
+hash = "a0e6b738f272502cdc5d456867634e523d2ceada"
+
+[update]
+[update.curseforge]
+file-id = 2421841
+project-id = 247007

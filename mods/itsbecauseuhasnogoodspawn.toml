@@ -1,0 +1,13 @@
+name = "ItsBecauseUHasNoGoodSpawn"
+filename = "ItsBecauseUHasNoGoodSpawn-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2365/61/ItsBecauseUHasNoGoodSpawn-1.0.5.jar"
+hash-format = "murmur2"
+hash = "2598665469"
+
+[update]
+[update.curseforge]
+file-id = 2365061
+project-id = 254647

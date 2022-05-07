@@ -1,0 +1,13 @@
+name = "CodeChicken Core 1.8.+"
+filename = "CodeChickenCore-1.10.2-2.4.1.102-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2400/103/CodeChickenCore-1.10.2-2.4.1.102-universal.jar"
+hash-format = "sha1"
+hash = "6aceb5251a9c0120d19dfd5925782465a4b2d767"
+
+[update]
+[update.curseforge]
+file-id = 2400103
+project-id = 243822

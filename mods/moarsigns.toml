@@ -1,0 +1,13 @@
+name = "MoarSigns"
+filename = "MoarSigns-1.10.2-4.2.3.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2430/928/MoarSigns-1.10.2-4.2.3.9.jar"
+hash-format = "sha1"
+hash = "8fe89cdf81d0e50d8a261a215b9e55853b5c64b3"
+
+[update]
+[update.curseforge]
+file-id = 2430928
+project-id = 79243

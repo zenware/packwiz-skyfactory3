@@ -1,0 +1,13 @@
+name = "Foam​Fix"
+filename = "foamfix-0.7.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2607/801/foamfix-0.7.5.jar"
+hash-format = "sha1"
+hash = "f40b4e0c8d2e05ccd8a23b2b7b608c3d6a3e2303"
+
+[update]
+[update.curseforge]
+file-id = 2607801
+project-id = 278494

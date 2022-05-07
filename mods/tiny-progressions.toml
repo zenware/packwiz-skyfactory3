@@ -1,0 +1,13 @@
+name = "Tiny Progressions"
+filename = "tinyprogressions-1.10.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2393/505/tinyprogressions-1.10.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "c04936b1bdccaf0729f93b9d3ed5009cf2973532"
+
+[update]
+[update.curseforge]
+file-id = 2393505
+project-id = 250850

@@ -1,0 +1,13 @@
+name = "QuantumStorage"
+filename = "QuantumStorage-1.10.2-3.3.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2480/992/QuantumStorage-1.10.2-3.3.6.jar"
+hash-format = "sha1"
+hash = "552373e1854887fdd08dbd8ece45aa3447024d17"
+
+[update]
+[update.curseforge]
+file-id = 2480992
+project-id = 235121

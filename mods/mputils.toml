@@ -1,0 +1,13 @@
+name = "MPUtils"
+filename = "mputils-1.10.2-1.2.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2430/827/mputils-1.10.2-1.2.9.jar"
+hash-format = "sha1"
+hash = "5a8e3ee037ce5d0cfd9ceab0781e6057f1fedbfc"
+
+[update]
+[update.curseforge]
+file-id = 2430827
+project-id = 244940

@@ -1,0 +1,13 @@
+name = "Solar Flux Reborn"
+filename = "SolarFluxReborn_1.10.2-2.17r.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2424/82/SolarFluxReborn_1.10.2-2.17r.jar"
+hash-format = "sha1"
+hash = "84500c3d87725a4ba93200ef47d469f708605da6"
+
+[update]
+[update.curseforge]
+file-id = 2424082
+project-id = 246974

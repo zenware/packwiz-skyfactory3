@@ -1,0 +1,13 @@
+name = "xNICEx"
+filename = "nice-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2364/968/nice-0.1.0.jar"
+hash-format = "sha1"
+hash = "b0a90c3f04856e675d60a8ef8ca3eda8dd1fbe70"
+
+[update]
+[update.curseforge]
+file-id = 2364968
+project-id = 255038

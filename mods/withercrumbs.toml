@@ -1,0 +1,13 @@
+name = "WitherCrumbs"
+filename = "witherCrumbs-1.10.2-0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2357/224/witherCrumbs-1.10.2-0.9.jar"
+hash-format = "murmur2"
+hash = "1637369019"
+
+[update]
+[update.curseforge]
+file-id = 2357224
+project-id = 242890

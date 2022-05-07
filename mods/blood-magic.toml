@@ -1,0 +1,13 @@
+name = "Blood Magic "
+filename = "BloodMagic-1.10.2-2.1.11-80.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2439/437/BloodMagic-1.10.2-2.1.11-80.jar"
+hash-format = "sha1"
+hash = "9d447902df75cc8962d1addcf44adc65a2ce979b"
+
+[update]
+[update.curseforge]
+file-id = 2439437
+project-id = 224791

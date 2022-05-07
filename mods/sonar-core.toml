@@ -1,0 +1,13 @@
+name = "Sonar Core"
+filename = "SonarCore-1.10.2-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2480/920/SonarCore-1.10.2-3.3.0.jar"
+hash-format = "sha1"
+hash = "08ab06b22f5e83f511266237f6c716b375593882"
+
+[update]
+[update.curseforge]
+file-id = 2480920
+project-id = 239418

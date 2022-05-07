@@ -1,0 +1,13 @@
+name = "Energy Converters"
+filename = "energyconverters_1.10.2-1.0.0.26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2444/366/energyconverters_1.10.2-1.0.0.26.jar"
+hash-format = "sha1"
+hash = "582aa76714c19d87b524d324f4701c9804ee1e75"
+
+[update]
+[update.curseforge]
+file-id = 2444366
+project-id = 254818

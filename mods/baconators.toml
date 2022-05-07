@@ -1,0 +1,13 @@
+name = "Baconators"
+filename = "baconators-1.10.2-3.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2408/423/baconators-1.10.2-3.0.6.jar"
+hash-format = "sha1"
+hash = "65f0ed616ca8e9d8b768e01c2853212c48d2fc93"
+
+[update]
+[update.curseforge]
+file-id = 2408423
+project-id = 242170

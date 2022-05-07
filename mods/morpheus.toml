@@ -1,0 +1,13 @@
+name = "Morpheus"
+filename = "Morpheus-1.10.2-3.1.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2358/274/Morpheus-1.10.2-3.1.13.jar"
+hash-format = "sha1"
+hash = "84efc662db81962bdd79b3dcd3c40d44d5ffc29e"
+
+[update]
+[update.curseforge]
+file-id = 2358274
+project-id = 69118

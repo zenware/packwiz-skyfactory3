@@ -1,0 +1,13 @@
+name = "Environmental Tech"
+filename = "environmentaltech-1.10.2-0.10.6b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2387/220/environmentaltech-1.10.2-0.10.6b.jar"
+hash-format = "sha1"
+hash = "2c8cbb642d834e91546453bc7e3c3e80da2ca1d3"
+
+[update]
+[update.curseforge]
+file-id = 2387220
+project-id = 245453

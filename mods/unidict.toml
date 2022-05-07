@@ -1,0 +1,13 @@
+name = "UniDict"
+filename = "UniDict-1.10.2-2.9b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2437/552/UniDict-1.10.2-2.9b.jar"
+hash-format = "sha1"
+hash = "99eb5a449a683678848bbc027e882873135ece47"
+
+[update]
+[update.curseforge]
+file-id = 2437552
+project-id = 244258

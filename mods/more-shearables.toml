@@ -1,0 +1,13 @@
+name = "More Shearables"
+filename = "MoreShearables1.2.1-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2312/520/MoreShearables1.2.1-1.10.2.jar"
+hash-format = "sha1"
+hash = "7823072cc2265455f3ec9f90607771e143e40d1f"
+
+[update]
+[update.curseforge]
+file-id = 2312520
+project-id = 241805

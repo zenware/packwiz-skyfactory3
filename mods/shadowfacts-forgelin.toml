@@ -1,0 +1,13 @@
+name = "Shadowfacts' Forgelin"
+filename = "Forgelin-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2453/708/Forgelin-1.5.1.jar"
+hash-format = "sha1"
+hash = "48b1ac1b308b3c8d023eb7f23ba63673e81b5751"
+
+[update]
+[update.curseforge]
+file-id = 2453708
+project-id = 248453

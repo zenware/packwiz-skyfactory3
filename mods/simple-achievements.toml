@@ -1,0 +1,13 @@
+name = "Simple Achievements"
+filename = "SimpleAchievements-MC1.9.4-1.2.2-28.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2378/44/SimpleAchievements-MC1.9.4-1.2.2-28.jar"
+hash-format = "sha1"
+hash = "d321720366f0aedef28c38da6f4c9c91592c0bd7"
+
+[update]
+[update.curseforge]
+file-id = 2378044
+project-id = 231126

@@ -1,0 +1,13 @@
+name = "CraftTweaker"
+filename = "CraftTweaker-1.10.2-3.0.26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2433/444/CraftTweaker-1.10.2-3.0.26.jar"
+hash-format = "sha1"
+hash = "a882c767191f5d6f2733a89d06c69514a00176e6"
+
+[update]
+[update.curseforge]
+file-id = 2433444
+project-id = 239197

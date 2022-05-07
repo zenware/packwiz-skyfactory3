@@ -1,0 +1,13 @@
+name = "AutoPackager"
+filename = "autopackager-1.6.4b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2449/474/autopackager-1.6.4b.jar"
+hash-format = "sha1"
+hash = "84240b79c6f8b11a13da2acad9af608019d218a0"
+
+[update]
+[update.curseforge]
+file-id = 2449474
+project-id = 221457

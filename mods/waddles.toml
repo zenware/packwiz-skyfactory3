@@ -1,0 +1,13 @@
+name = "Waddles"
+filename = "Waddles-1.10.2-0.5.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2458/70/Waddles-1.10.2-0.5.4.jar"
+hash-format = "sha1"
+hash = "6b446e1dbe0022df9d01eaad2b60f125b81ca20e"
+
+[update]
+[update.curseforge]
+file-id = 2458070
+project-id = 251767

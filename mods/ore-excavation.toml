@@ -1,0 +1,13 @@
+name = "Ore Excavation"
+filename = "OreExcavation-1.2.102.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2464/263/OreExcavation-1.2.102.jar"
+hash-format = "sha1"
+hash = "bf277f6ad14b0074f90c5bdb6194656793aca78c"
+
+[update]
+[update.curseforge]
+file-id = 2464263
+project-id = 250898

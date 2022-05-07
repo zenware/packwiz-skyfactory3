@@ -1,0 +1,13 @@
+name = "Dimensional Cake"
+filename = "dimensionalcake-1.9.4-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2305/363/dimensionalcake-1.9.4-0.0.1.jar"
+hash-format = "sha1"
+hash = "6567010ffac8ccd29ceb0cb88c4e40f42b9508e0"
+
+[update]
+[update.curseforge]
+file-id = 2305363
+project-id = 236953

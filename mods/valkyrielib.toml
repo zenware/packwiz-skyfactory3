@@ -1,0 +1,13 @@
+name = "ValkyrieLib"
+filename = "valkyrielib-1.10.2-0.10.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2386/793/valkyrielib-1.10.2-0.10.6.jar"
+hash-format = "sha1"
+hash = "b898816a28986ad14613cb13a183e6ad12cf341c"
+
+[update]
+[update.curseforge]
+file-id = 2386793
+project-id = 245480

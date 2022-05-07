@@ -1,0 +1,13 @@
+name = "FTB Library (Forge) (Legacy)"
+filename = "FTBLib-1.1x-3.6.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2422/883/FTBLib-1.1x-3.6.5.jar"
+hash-format = "sha1"
+hash = "67cecd7ae1b634089a3e572a53368c197930d435"
+
+[update]
+[update.curseforge]
+file-id = 2422883
+project-id = 237167

@@ -1,0 +1,13 @@
+name = "Botania: Garden of Glass"
+filename = "GardenOfGlass.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2282/755/GardenOfGlass.jar"
+hash-format = "sha1"
+hash = "72f2632b3906add5fdac9349fdc7b62bb6b42d04"
+
+[update]
+[update.curseforge]
+file-id = 2282755
+project-id = 232502

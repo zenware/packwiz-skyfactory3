@@ -1,0 +1,13 @@
+name = "Pam's HarvestCraft"
+filename = "Pam's HarvestCraft 1.9.4-1.10.2h.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2341/593/Pam%27s%20HarvestCraft%201.9.4-1.10.2h.jar"
+hash-format = "sha1"
+hash = "cd19c0b947233509dda9ded0473d28b6c940c4bd"
+
+[update]
+[update.curseforge]
+file-id = 2341593
+project-id = 221857

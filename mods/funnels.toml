@@ -1,0 +1,13 @@
+name = "Funnels"
+filename = "Funnels-1.10.2-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2354/553/Funnels-1.10.2-1.1.2.jar"
+hash-format = "sha1"
+hash = "616766120b71b6c5e4492ff4460dbcd7c16f3947"
+
+[update]
+[update.curseforge]
+file-id = 2354553
+project-id = 246215

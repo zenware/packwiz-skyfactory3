@@ -1,0 +1,13 @@
+name = "Psi"
+filename = "Psi-r1.0-42.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2347/126/Psi-r1.0-42.jar"
+hash-format = "sha1"
+hash = "7123d523052a290b7d24da28d3beb414b14341a4"
+
+[update]
+[update.curseforge]
+file-id = 2347126
+project-id = 241665

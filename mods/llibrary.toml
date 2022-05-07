@@ -1,0 +1,13 @@
+name = "LLibrary"
+filename = "llibrary-1.7.7-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2461/99/llibrary-1.7.7-1.10.2.jar"
+hash-format = "sha1"
+hash = "a272ead74358cb383b0834b9d4f4972d3c84fa7a"
+
+[update]
+[update.curseforge]
+file-id = 2461099
+project-id = 243298

@@ -1,0 +1,13 @@
+name = "Ceramics"
+filename = "Ceramics-1.10.2-1.1.6b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2426/444/Ceramics-1.10.2-1.1.6b.jar"
+hash-format = "sha1"
+hash = "d1153156ccbfe18994a3a19fca0527926f450df5"
+
+[update]
+[update.curseforge]
+file-id = 2426444
+project-id = 250617

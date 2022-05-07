@@ -1,0 +1,13 @@
+name = "Simple Corn"
+filename = "simpleCorn-1.10.2-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2432/573/simpleCorn-1.10.2-2.2.0.jar"
+hash-format = "sha1"
+hash = "7c61b94398f44c87ce932f4d0296a0911872dd61"
+
+[update]
+[update.curseforge]
+file-id = 2432573
+project-id = 246761

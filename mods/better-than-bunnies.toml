@@ -1,0 +1,13 @@
+name = "Better Than Bunnies"
+filename = "BetterThanBunnies-1.10.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2345/188/BetterThanBunnies-1.10.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "6ffe361a2584a342dbb36d27acf1ddda2fd733ea"
+
+[update]
+[update.curseforge]
+file-id = 2345188
+project-id = 241015

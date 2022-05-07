@@ -1,0 +1,13 @@
+name = "McJtyLib"
+filename = "mcjtylib-1.1x-2.5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2532/14/mcjtylib-1.1x-2.5.3.jar"
+hash-format = "sha1"
+hash = "4c882b7f8985aa773cd143129e9f7196862de584"
+
+[update]
+[update.curseforge]
+file-id = 2532014
+project-id = 233105

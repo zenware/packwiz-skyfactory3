@@ -1,0 +1,13 @@
+name = "Platforms"
+filename = "platforms-1.10.0-1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2404/432/platforms-1.10.0-1.2.10.jar"
+hash-format = "sha1"
+hash = "ad5f8ca054e7a04cf74ef361b31fd5827c335e4e"
+
+[update]
+[update.curseforge]
+file-id = 2404432
+project-id = 244786

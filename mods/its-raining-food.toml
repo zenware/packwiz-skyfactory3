@@ -1,0 +1,13 @@
+name = "It's Raining Food!"
+filename = "itsrainingfood-1.10.2-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2348/509/itsrainingfood-1.10.2-0.1.0.jar"
+hash-format = "sha1"
+hash = "3ddddc71f31056ed9bebcf845508b9d4577c3563"
+
+[update]
+[update.curseforge]
+file-id = 2348509
+project-id = 226922

@@ -1,0 +1,13 @@
+name = "Chameleon"
+filename = "Chameleon-1.10.2-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2419/174/Chameleon-1.10.2-2.3.0.jar"
+hash-format = "sha1"
+hash = "fa03dd786c47b820a103912dc905c66c9381a96f"
+
+[update]
+[update.curseforge]
+file-id = 2419174
+project-id = 230497

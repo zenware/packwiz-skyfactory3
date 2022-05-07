@@ -1,0 +1,13 @@
+name = "Long Fall Boots"
+filename = "LongFallBoots - Hard Mode.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2353/142/LongFallBoots%20-%20Hard%20Mode.jar"
+hash-format = "sha1"
+hash = "a7b7e4bd56f4c77b67ff7f57c03c719ca6c26af5"
+
+[update]
+[update.curseforge]
+file-id = 2353142
+project-id = 254032

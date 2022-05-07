@@ -1,0 +1,13 @@
+name = "Chance Cubes"
+filename = "ChanceCubes-1.10.2-3.1.1.221.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2537/158/ChanceCubes-1.10.2-3.1.1.221.jar"
+hash-format = "sha1"
+hash = "9aa802977289046bbdb0f58d0f5bc1db55b232a3"
+
+[update]
+[update.curseforge]
+file-id = 2537158
+project-id = 233113

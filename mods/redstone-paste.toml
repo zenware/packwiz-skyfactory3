@@ -1,0 +1,13 @@
+name = "Redstone Paste"
+filename = "redstonepaste-mc1.9.4-1.7.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2310/536/redstonepaste-mc1.9.4-1.7.4.jar"
+hash-format = "sha1"
+hash = "35057193eb06dd6c5f30df486036f9f35f9f5d0a"
+
+[update]
+[update.curseforge]
+file-id = 2310536
+project-id = 67508

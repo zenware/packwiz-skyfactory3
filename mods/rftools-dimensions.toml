@@ -1,0 +1,13 @@
+name = "RFTools Dimensions"
+filename = "rftoolsdim-1.1x-5.05.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2478/236/rftoolsdim-1.1x-5.05.jar"
+hash-format = "sha1"
+hash = "5d795172aa385989e5e95401ecdae497a108f681"
+
+[update]
+[update.curseforge]
+file-id = 2478236
+project-id = 240950

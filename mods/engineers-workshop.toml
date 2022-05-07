@@ -1,0 +1,13 @@
+name = "Engineers Workshop"
+filename = "EngineersWorkshop-1.3.7-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2516/567/EngineersWorkshop-1.3.7-1.10.2.jar"
+hash-format = "sha1"
+hash = "c2461f877a4ea4e31a362ef560bd20e270efb047"
+
+[update]
+[update.curseforge]
+file-id = 2516567
+project-id = 254916

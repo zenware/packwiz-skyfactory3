@@ -1,0 +1,13 @@
+name = "MCMultiPart"
+filename = "MCMultiPart-1.4.0-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2381/408/MCMultiPart-1.4.0-universal.jar"
+hash-format = "sha1"
+hash = "637f567e72619e59fb4e436929e4584373cb3cdd"
+
+[update]
+[update.curseforge]
+file-id = 2381408
+project-id = 239431

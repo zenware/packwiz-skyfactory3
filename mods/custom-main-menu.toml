@@ -1,0 +1,13 @@
+name = "Custom Main Menu"
+filename = "CustomMainMenu-MC1.10.2-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2405/622/CustomMainMenu-MC1.10.2-2.0.5.jar"
+hash-format = "sha1"
+hash = "9b36bf326dd35932254df46d3a649349faf0c9ba"
+
+[update]
+[update.curseforge]
+file-id = 2405622
+project-id = 226406

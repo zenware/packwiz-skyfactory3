@@ -1,0 +1,13 @@
+name = "More Chickens"
+filename = "MoreChickens-1.10.2-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2442/866/MoreChickens-1.10.2-1.1.6.jar"
+hash-format = "sha1"
+hash = "10816ed3b9ad84888a457bb707e11cf1c0ab9cfa"
+
+[update]
+[update.curseforge]
+file-id = 2442866
+project-id = 251786

@@ -1,0 +1,13 @@
+name = "Mob Grinding Utils"
+filename = "MobGrindingUtils-0.1.8.22.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2449/253/MobGrindingUtils-0.1.8.22.jar"
+hash-format = "sha1"
+hash = "ff118381862206f3ad9b15d542d3ee4a3b916e14"
+
+[update]
+[update.curseforge]
+file-id = 2449253
+project-id = 254241

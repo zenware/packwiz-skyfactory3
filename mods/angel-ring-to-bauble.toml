@@ -1,0 +1,13 @@
+name = "Angel Ring To Bauble"
+filename = "angelRingToBauble-1.10.2-0.2.4.19+d71eb9e.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2412/340/angelRingToBauble-1.10.2-0.2.4.19+d71eb9e.jar"
+hash-format = "sha1"
+hash = "b5970edc341ccf98554481090c27b3bbca213b0f"
+
+[update]
+[update.curseforge]
+file-id = 2412340
+project-id = 256224

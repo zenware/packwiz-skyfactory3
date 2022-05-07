@@ -1,0 +1,13 @@
+name = "Actually Additions"
+filename = "ActuallyAdditions-1.10.2-r105.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2392/124/ActuallyAdditions-1.10.2-r105.jar"
+hash-format = "sha1"
+hash = "a4e3155cf602682ba3755b63916dbdba1944f4f0"
+
+[update]
+[update.curseforge]
+file-id = 2392124
+project-id = 228404

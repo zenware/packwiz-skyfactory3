@@ -1,0 +1,13 @@
+name = "Chickens"
+filename = "chickens-4.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2368/267/chickens-4.3.2.jar"
+hash-format = "sha1"
+hash = "186e5acafa9e1b8389ceed6d86547caff7e0eda7"
+
+[update]
+[update.curseforge]
+file-id = 2368267
+project-id = 241941

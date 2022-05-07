@@ -1,0 +1,13 @@
+name = "Extra Bit Manipulation"
+filename = "ExtraBitManipulation-1.10.2-2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2630/79/ExtraBitManipulation-1.10.2-2.6.2.jar"
+hash-format = "sha1"
+hash = "b7efee6dcb5c43b6e14bf12aac15819c4f1fa36b"
+
+[update]
+[update.curseforge]
+file-id = 2630079
+project-id = 240959

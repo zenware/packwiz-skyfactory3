@@ -1,0 +1,13 @@
+name = "Steve's Carts Reborn"
+filename = "StevesCarts-1.10.2-2.2.0.86.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2424/803/StevesCarts-1.10.2-2.2.0.86.jar"
+hash-format = "sha1"
+hash = "058c2b4e23b507391d399b9207d9e6ba9f6187dc"
+
+[update]
+[update.curseforge]
+file-id = 2424803
+project-id = 253462

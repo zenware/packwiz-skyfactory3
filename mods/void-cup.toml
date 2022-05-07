@@ -1,0 +1,13 @@
+name = "Void Cup"
+filename = "voidcup-1.10.2-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2347/568/voidcup-1.10.2-0.0.1.jar"
+hash-format = "sha1"
+hash = "040b07f49126b54ad098798630fa646ad9541ce8"
+
+[update]
+[update.curseforge]
+file-id = 2347568
+project-id = 253961

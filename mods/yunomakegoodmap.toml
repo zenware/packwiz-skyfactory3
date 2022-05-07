@@ -1,0 +1,13 @@
+name = "YUNoMakeGoodMap"
+filename = "YUNoMakeGoodMap-1.10.2-6.1.0.26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2351/304/YUNoMakeGoodMap-1.10.2-6.1.0.26.jar"
+hash-format = "sha1"
+hash = "eff6aee351e22aa6484e55842de49eb8b0611be6"
+
+[update]
+[update.curseforge]
+file-id = 2351304
+project-id = 252104

@@ -1,0 +1,13 @@
+name = "Baubles"
+filename = "Baubles-1.10.2-1.3.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2518/666/Baubles-1.10.2-1.3.13.jar"
+hash-format = "sha1"
+hash = "7e59314d547dc56ec5f0eecc46ae155b171dccc7"
+
+[update]
+[update.curseforge]
+file-id = 2518666
+project-id = 227083

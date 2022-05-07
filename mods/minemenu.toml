@@ -1,0 +1,13 @@
+name = "MineMenu"
+filename = "MineMenu-1.10.2-1.4.5-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2362/998/MineMenu-1.10.2-1.4.5-universal.jar"
+hash-format = "sha1"
+hash = "f3f5ac71d3b8e7957916c676bb3ae931ada4b9c9"
+
+[update]
+[update.curseforge]
+file-id = 2362998
+project-id = 222378

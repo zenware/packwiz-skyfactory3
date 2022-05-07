@@ -1,0 +1,13 @@
+name = "FTB Utilities (Forge)"
+filename = "FTBUtilities-1.1x-3.6.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2422/884/FTBUtilities-1.1x-3.6.5.jar"
+hash-format = "sha1"
+hash = "3f99891292dda04cb5e6e722b4761dc059b95160"
+
+[update]
+[update.curseforge]
+file-id = 2422884
+project-id = 237102

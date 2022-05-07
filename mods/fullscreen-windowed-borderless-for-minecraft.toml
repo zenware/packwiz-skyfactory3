@@ -1,0 +1,13 @@
+name = "Fullscreen Windowed (Borderless) for Minecraft"
+filename = "FullscreenWindowed-1.10.2-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2456/0/FullscreenWindowed-1.10.2-1.5.1.jar"
+hash-format = "sha1"
+hash = "49a51016bfe5e65d161ca4d22202da1619978646"
+
+[update]
+[update.curseforge]
+file-id = 2456000
+project-id = 227441

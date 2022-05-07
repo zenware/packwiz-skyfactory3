@@ -1,0 +1,13 @@
+name = "Iron Backpacks"
+filename = "IronBackpacks-1.10.2-2.2.33.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2520/721/IronBackpacks-1.10.2-2.2.33.jar"
+hash-format = "sha1"
+hash = "22d532d65704e3b47b1f45cce25c871d178376da"
+
+[update]
+[update.curseforge]
+file-id = 2520721
+project-id = 227049

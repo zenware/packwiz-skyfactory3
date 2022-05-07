@@ -1,0 +1,13 @@
+name = "KleeSlabs"
+filename = "KleeSlabs_1.10.2-3.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2326/335/KleeSlabs_1.10.2-3.3.5.jar"
+hash-format = "sha1"
+hash = "ba54a271f00db6192d7c1cf71d7b255b3e078853"
+
+[update]
+[update.curseforge]
+file-id = 2326335
+project-id = 241895

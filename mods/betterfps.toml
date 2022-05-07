@@ -1,0 +1,13 @@
+name = "BetterFps"
+filename = "BetterFps-1.4.5-1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2429/881/BetterFps-1.4.5-1.10.jar"
+hash-format = "sha1"
+hash = "9c4297c10be338a405a92c8d9dc68acde14ed836"
+
+[update]
+[update.curseforge]
+file-id = 2429881
+project-id = 229876

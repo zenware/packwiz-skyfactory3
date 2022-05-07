@@ -1,0 +1,13 @@
+name = "Clipboard"
+filename = "Clipboard-1.10.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2357/558/Clipboard-1.10.2-1.1.1.jar"
+hash-format = "sha1"
+hash = "26192de5862d399a1f39180cefe510e54a1130ff"
+
+[update]
+[update.curseforge]
+file-id = 2357558
+project-id = 252676

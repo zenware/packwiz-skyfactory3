@@ -1,0 +1,13 @@
+name = "BiomeTweaker"
+filename = "BiomeTweaker-1.10.2-2.3.239.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2402/226/BiomeTweaker-1.10.2-2.3.239.jar"
+hash-format = "sha1"
+hash = "817f0dc6ad4cd2d46afff841575c55f402528825"
+
+[update]
+[update.curseforge]
+file-id = 2402226
+project-id = 228895

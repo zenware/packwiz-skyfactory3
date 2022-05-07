@@ -1,0 +1,13 @@
+name = "Drawers & Bits"
+filename = "DrawersBits-1.10.2-0.36.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2391/211/DrawersBits-1.10.2-0.36.jar"
+hash-format = "sha1"
+hash = "99b6d9c0dbb3c80bf09f45cb4e8e1541f61f1156"
+
+[update]
+[update.curseforge]
+file-id = 2391211
+project-id = 247712

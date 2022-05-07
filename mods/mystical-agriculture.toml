@@ -1,0 +1,13 @@
+name = "Mystical Agriculture"
+filename = "mysticalagriculture[1.10.2]-1.5.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2454/692/mysticalagriculture%5B1.10.2%5D-1.5.8.jar"
+hash-format = "sha1"
+hash = "863e5235b6a163083ed4c2f804de70e425725dfe"
+
+[update]
+[update.curseforge]
+file-id = 2454692
+project-id = 246640

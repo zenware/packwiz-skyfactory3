@@ -1,0 +1,13 @@
+name = "Ex Compressum"
+filename = "ExCompressum_1.10.2-2.0.97.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2394/546/ExCompressum_1.10.2-2.0.97.jar"
+hash-format = "sha1"
+hash = "11e0e08e9df45566d47daeec1670eafaa764865b"
+
+[update]
+[update.curseforge]
+file-id = 2394546
+project-id = 241967

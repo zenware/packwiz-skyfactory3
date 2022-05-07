@@ -1,0 +1,13 @@
+name = "InGame Info XML"
+filename = "InGameInfoXML-1.10.2-2.8.1.89-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2342/250/InGameInfoXML-1.10.2-2.8.1.89-universal.jar"
+hash-format = "sha1"
+hash = "b9aa283cb4868ba1dfe9b4df537ce018a3657e99"
+
+[update]
+[update.curseforge]
+file-id = 2342250
+project-id = 225604

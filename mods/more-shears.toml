@@ -1,0 +1,13 @@
+name = "More Shears"
+filename = "moreshears-1.10.2-1.0.5-release.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2385/75/moreshears-1.10.2-1.0.5-release.jar"
+hash-format = "murmur2"
+hash = "2588425195"
+
+[update]
+[update.curseforge]
+file-id = 2385075
+project-id = 247321

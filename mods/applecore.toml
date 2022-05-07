@@ -1,0 +1,13 @@
+name = "AppleCore"
+filename = "AppleCore-mc1.10.2-3.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2605/921/AppleCore-mc1.10.2-3.1.4.jar"
+hash-format = "sha1"
+hash = "b40d20b7aeb158f1706a492436b2876954a14875"
+
+[update]
+[update.curseforge]
+file-id = 2605921
+project-id = 224472

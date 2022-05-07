@@ -1,0 +1,13 @@
+name = "Roots"
+filename = "roots-0.208.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2352/210/roots-0.208.jar"
+hash-format = "sha1"
+hash = "816c5f67d88a9a1e1054938b5336fdf02787c9d4"
+
+[update]
+[update.curseforge]
+file-id = 2352210
+project-id = 246183

@@ -1,0 +1,13 @@
+name = "LootBags"
+filename = "LootBags-1.10.2-2.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2506/315/LootBags-1.10.2-2.5.0.jar"
+hash-format = "sha1"
+hash = "15f4a0d66714f85d2e0799a9c64f4bd380bcb958"
+
+[update]
+[update.curseforge]
+file-id = 2506315
+project-id = 225946

@@ -1,0 +1,13 @@
+name = "Twerk Sim 2K16"
+filename = "TS2K16-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2369/361/TS2K16-1.0.3.jar"
+hash-format = "sha1"
+hash = "242c42c571bcdf2658fbe326d214920e7d3b8b34"
+
+[update]
+[update.curseforge]
+file-id = 2369361
+project-id = 251301

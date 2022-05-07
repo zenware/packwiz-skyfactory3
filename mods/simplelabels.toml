@@ -1,0 +1,13 @@
+name = "SimpleLabels"
+filename = "simplelabels-1-10.2-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2390/241/simplelabels-1-10.2-0.0.3.jar"
+hash-format = "sha1"
+hash = "52fc95385f280fae852537a1f5f1f0c2aa445dbb"
+
+[update]
+[update.curseforge]
+file-id = 2390241
+project-id = 232134

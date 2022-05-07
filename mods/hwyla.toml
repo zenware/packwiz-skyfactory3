@@ -1,0 +1,13 @@
+name = "Hwyla"
+filename = "Hwyla-1.8.17-B31_1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2433/252/Hwyla-1.8.17-B31_1.10.2.jar"
+hash-format = "sha1"
+hash = "7c93adb70c68eba24b1a7d8c21e108309c28c5f0"
+
+[update]
+[update.curseforge]
+file-id = 2433252
+project-id = 253449

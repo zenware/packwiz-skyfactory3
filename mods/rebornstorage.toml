@@ -1,0 +1,13 @@
+name = "Reborn Storage"
+filename = "RebornStorage-1.10.2-1.0.3.30.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2413/810/RebornStorage-1.10.2-1.0.3.30.jar"
+hash-format = "sha1"
+hash = "9ac0b1197a7cec40d93719a77e63d91e2a507c6d"
+
+[update]
+[update.curseforge]
+file-id = 2413810
+project-id = 256662

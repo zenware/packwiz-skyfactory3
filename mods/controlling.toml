@@ -1,0 +1,13 @@
+name = "Controlling"
+filename = "Controlling-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2442/755/Controlling-1.0.5.jar"
+hash-format = "sha1"
+hash = "b5b65f81c844b7095bc285d1a1da94850019e6dc"
+
+[update]
+[update.curseforge]
+file-id = 2442755
+project-id = 250398

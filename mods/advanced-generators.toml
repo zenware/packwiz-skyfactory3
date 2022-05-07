@@ -1,0 +1,13 @@
+name = "Advanced Generators"
+filename = "generators-0.9.20.23-mc1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2392/608/generators-0.9.20.23-mc1.10.2.jar"
+hash-format = "sha1"
+hash = "fd8c3d2d9e25f2a38b06a3f97b6775011f72d3db"
+
+[update]
+[update.curseforge]
+file-id = 2392608
+project-id = 223622

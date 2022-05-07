@@ -1,0 +1,13 @@
+name = "Torchmaster"
+filename = "torchmaster_1.10.2-1.4.1.34.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2455/740/torchmaster_1.10.2-1.4.1.34.jar"
+hash-format = "sha1"
+hash = "76a1e5b312e26a113fc83dbb4f99f2556876c0b8"
+
+[update]
+[update.curseforge]
+file-id = 2455740
+project-id = 254268

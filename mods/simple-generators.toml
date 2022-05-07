@@ -1,0 +1,13 @@
+name = "Simple Generators"
+filename = "simplegenerators-1.10.2-0.10.6a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2386/795/simplegenerators-1.10.2-0.10.6a.jar"
+hash-format = "sha1"
+hash = "1287eeb2f2c07c6ee600c4264ae63d3f88fbc324"
+
+[update]
+[update.curseforge]
+file-id = 2386795
+project-id = 246010

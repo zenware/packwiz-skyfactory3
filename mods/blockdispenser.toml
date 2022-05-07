@@ -1,0 +1,13 @@
+name = "BlockDispenser"
+filename = "BlockDispenser-1.0-1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2325/737/BlockDispenser-1.0-1.jar"
+hash-format = "sha1"
+hash = "1b7f5302ba9a8ecd001d794bf4476e191767a8d4"
+
+[update]
+[update.curseforge]
+file-id = 2325737
+project-id = 250179

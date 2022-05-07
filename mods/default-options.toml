@@ -1,0 +1,13 @@
+name = "Default Options"
+filename = "DefaultOptions_1.10.2-6.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2313/983/DefaultOptions_1.10.2-6.1.5.jar"
+hash-format = "sha1"
+hash = "6906aeafd4f168a30ba070f6bd68865c302eacfc"
+
+[update]
+[update.curseforge]
+file-id = 2313983
+project-id = 232131

@@ -1,0 +1,13 @@
+name = "OpenComputers"
+filename = "OpenComputers-MC1.10.2-1.7.5.245.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2828/355/OpenComputers-MC1.10.2-1.7.5.245.jar"
+hash-format = "sha1"
+hash = "ed2dfe31f845003a1da1675b57aa59e44d60bc86"
+
+[update]
+[update.curseforge]
+file-id = 2828355
+project-id = 223008

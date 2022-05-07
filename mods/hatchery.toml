@@ -1,0 +1,13 @@
+name = "Hatchery"
+filename = "hatchery-1.10.2-0.3.22.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2492/141/hatchery-1.10.2-0.3.22.jar"
+hash-format = "sha1"
+hash = "63fcee542325a080171c0e0a52d5bfc4d274041e"
+
+[update]
+[update.curseforge]
+file-id = 2492141
+project-id = 251138

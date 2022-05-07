@@ -1,0 +1,13 @@
+name = "Ex Nihilo Adscensio"
+filename = "exnihiloadscensio-1.10.2-0.1.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2403/383/exnihiloadscensio-1.10.2-0.1.20.jar"
+hash-format = "sha1"
+hash = "3bceeb9a95cad07863b2ad669e46ea79f047f9eb"
+
+[update]
+[update.curseforge]
+file-id = 2403383
+project-id = 253952

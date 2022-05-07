@@ -1,0 +1,13 @@
+name = "MiniCoal"
+filename = "minicoal-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2339/399/minicoal-1.1.0.jar"
+hash-format = "sha1"
+hash = "139abfd0d87230dc3fa1eee556dfe4900c5913be"
+
+[update]
+[update.curseforge]
+file-id = 2339399
+project-id = 252291

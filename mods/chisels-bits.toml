@@ -1,0 +1,13 @@
+name = "Chisels & Bits - For Forge"
+filename = "chiselsandbits-12.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2538/650/chiselsandbits-12.18.jar"
+hash-format = "sha1"
+hash = "8de18878341f3e2ce24754f24b0b485e710ffe60"
+
+[update]
+[update.curseforge]
+file-id = 2538650
+project-id = 231095

@@ -1,0 +1,13 @@
+name = "RFTools"
+filename = "rftools-1.1x-7.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2511/881/rftools-1.1x-7.16.jar"
+hash-format = "sha1"
+hash = "0b41afcfcf27c354355512c921470aad3610cbf5"
+
+[update]
+[update.curseforge]
+file-id = 2511881
+project-id = 224641

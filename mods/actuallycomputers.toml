@@ -1,0 +1,13 @@
+name = "ActuallyComputers"
+filename = "actuallycomputers-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2364/184/actuallycomputers-1.0.0.jar"
+hash-format = "sha1"
+hash = "08e76b9a613597ae34349be31e4ed016894a5e3a"
+
+[update]
+[update.curseforge]
+file-id = 2364184
+project-id = 253005

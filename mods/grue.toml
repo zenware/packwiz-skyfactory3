@@ -1,0 +1,13 @@
+name = "Grue"
+filename = "Grue-1.9.4-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2418/764/Grue-1.9.4-1.3.5.jar"
+hash-format = "sha1"
+hash = "5a47da6554e71a453460cd3a3cc092dcbfead90c"
+
+[update]
+[update.curseforge]
+file-id = 2418764
+project-id = 235133

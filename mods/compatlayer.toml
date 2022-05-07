@@ -1,0 +1,13 @@
+name = "CompatLayer"
+filename = "compatlayer-1.10-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2532/12/compatlayer-1.10-0.3.1.jar"
+hash-format = "sha1"
+hash = "9369ec9bb3d19727c1cdc0e40ea725d8c01df9c9"
+
+[update]
+[update.curseforge]
+file-id = 2532012
+project-id = 253729

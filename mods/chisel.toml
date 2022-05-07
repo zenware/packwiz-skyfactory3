@@ -1,0 +1,13 @@
+name = "Chisel"
+filename = "Chisel-MC1.10.2-0.2.1.47.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2619/465/Chisel-MC1.10.2-0.2.1.47.jar"
+hash-format = "sha1"
+hash = "5ce72bc6760c6d8b5e82c4d5b0a2c098e9a6efed"
+
+[update]
+[update.curseforge]
+file-id = 2619465
+project-id = 235279

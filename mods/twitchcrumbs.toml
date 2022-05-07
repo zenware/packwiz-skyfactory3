@@ -1,0 +1,13 @@
+name = "Subheads (formerly Twitchcrumbs)"
+filename = "Twitchcrumbs_1.10.2-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2314/172/Twitchcrumbs_1.10.2-2.0.4.jar"
+hash-format = "sha1"
+hash = "8948fd910162acf3d370c6f50493acac2383f087"
+
+[update]
+[update.curseforge]
+file-id = 2314172
+project-id = 236798

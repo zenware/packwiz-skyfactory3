@@ -1,0 +1,13 @@
+name = "Scanner"
+filename = "scanner-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2453/22/scanner-1.5.2.jar"
+hash-format = "sha1"
+hash = "2de08a7ed2d9875ff53267feec63b609900f3e09"
+
+[update]
+[update.curseforge]
+file-id = 2453022
+project-id = 250833

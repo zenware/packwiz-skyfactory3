@@ -1,0 +1,13 @@
+name = "Ender IO"
+filename = "EnderIO-1.10.2-3.1.193.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2435/810/EnderIO-1.10.2-3.1.193.jar"
+hash-format = "sha1"
+hash = "57f584af4ce8da48c4ec8e281449418683ae6731"
+
+[update]
+[update.curseforge]
+file-id = 2435810
+project-id = 64578

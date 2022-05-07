@@ -1,0 +1,13 @@
+name = "Farming for Blockheads"
+filename = "FarmingForBlockheads_1.10.2-1.1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2462/297/FarmingForBlockheads_1.10.2-1.1.16.jar"
+hash-format = "sha1"
+hash = "a02b550633bf440d5c52c039be8b40b25f5d493b"
+
+[update]
+[update.curseforge]
+file-id = 2462297
+project-id = 261924

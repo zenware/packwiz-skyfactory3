@@ -1,0 +1,13 @@
+name = "CTMLib"
+filename = "CTMLib-MC1.7.10-1.4.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2273/524/CTMLib-MC1.7.10-1.4.1.5.jar"
+hash-format = "sha1"
+hash = "ee5245b301a6523a2cb6471d900e7ca04e0c6a2e"
+
+[update]
+[update.curseforge]
+file-id = 2273524
+project-id = 232154

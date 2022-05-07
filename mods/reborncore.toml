@@ -1,0 +1,13 @@
+name = "Reborn Core"
+filename = "RebornCore-1.10.2-2.13.6.142-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2425/28/RebornCore-1.10.2-2.13.6.142-universal.jar"
+hash-format = "sha1"
+hash = "8510ac21129650033df569cc7466e6b3ce29d024"
+
+[update]
+[update.curseforge]
+file-id = 2425028
+project-id = 237903

@@ -1,0 +1,13 @@
+name = "RFTools Control"
+filename = "rftoolsctrl-1.1x-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2503/243/rftoolsctrl-1.1x-1.7.0.jar"
+hash-format = "sha1"
+hash = "ef07e9ffdd3d76e91afe57aa26750fb61823b5ed"
+
+[update]
+[update.curseforge]
+file-id = 2503243
+project-id = 250763

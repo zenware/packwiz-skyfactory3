@@ -1,0 +1,13 @@
+name = "The Beneath"
+filename = "The Beneath-1.10.2-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2369/209/The%20Beneath-1.10.2-1.2.0.jar"
+hash-format = "sha1"
+hash = "b2c462bff4c6a68e25bc291d563a1b2bf5dab9ab"
+
+[update]
+[update.curseforge]
+file-id = 2369209
+project-id = 254629

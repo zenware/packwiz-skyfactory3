@@ -1,0 +1,13 @@
+name = "Headcrumbs"
+filename = "Headcrumbs-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2398/124/Headcrumbs-2.0.3.jar"
+hash-format = "sha1"
+hash = "c77c1f3e80af3607830b54e6c6c43c4a8d25c68c"
+
+[update]
+[update.curseforge]
+file-id = 2398124
+project-id = 222838

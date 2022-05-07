@@ -1,0 +1,13 @@
+name = "Natura"
+filename = "natura-1.10.2-4.1.0.80.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2470/909/natura-1.10.2-4.1.0.80.jar"
+hash-format = "sha1"
+hash = "1ba9667a8cb14d8d3bf66fc3ca826d23cb9e6421"
+
+[update]
+[update.curseforge]
+file-id = 2470909
+project-id = 74120

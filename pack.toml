@@ -1,0 +1,14 @@
+name = "Packwiz Skyfactory 3"
+author = "zenware"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2bf6361ebbecdda60f519a0f4b52dad96de20e811bc952556ce7630c48395f57"
+
+[versions]
+forge = "12.18.3.2511"
+minecraft = "1.10.2"
+quilt = "0.16.0-beta.16"

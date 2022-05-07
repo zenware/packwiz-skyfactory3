@@ -1,0 +1,13 @@
+name = "Get Ya' Tanks Here"
+filename = "Gyth-1.10.2-2.0.0.27.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2401/580/Gyth-1.10.2-2.0.0.27.jar"
+hash-format = "sha1"
+hash = "13bcdfbbc8c3d4bfc6a39cfb7a77e1d9181295c1"
+
+[update]
+[update.curseforge]
+file-id = 2401580
+project-id = 226696

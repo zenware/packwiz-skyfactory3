@@ -1,0 +1,13 @@
+name = "EnderCore"
+filename = "EnderCore-1.10.2-0.4.1.66-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2415/996/EnderCore-1.10.2-0.4.1.66-beta.jar"
+hash-format = "sha1"
+hash = "fb96af079497f26693904f2e29f316b97b0b8789"
+
+[update]
+[update.curseforge]
+file-id = 2415996
+project-id = 231868

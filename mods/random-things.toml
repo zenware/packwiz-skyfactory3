@@ -1,0 +1,13 @@
+name = "Random Things"
+filename = "RandomThings-MC1.10.2-3.7.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2407/587/RandomThings-MC1.10.2-3.7.7.1.jar"
+hash-format = "sha1"
+hash = "b393f6b9ec518215d980be7e8405ee03b77b49e2"
+
+[update]
+[update.curseforge]
+file-id = 2407587
+project-id = 59816

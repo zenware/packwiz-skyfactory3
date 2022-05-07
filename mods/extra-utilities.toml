@@ -1,0 +1,13 @@
+name = "Extra Utilities"
+filename = "extrautils2-1.10.2-1.9.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2678/371/extrautils2-1.10.2-1.9.9.jar"
+hash-format = "sha1"
+hash = "2c50971d7281dd540bdd24893c8d9f56947e4a0c"
+
+[update]
+[update.curseforge]
+file-id = 2678371
+project-id = 225561

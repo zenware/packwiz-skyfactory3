@@ -1,0 +1,13 @@
+name = "Missing Pieces"
+filename = "missing_pieces-1.10.2-4.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2431/898/missing_pieces-1.10.2-4.3.0.jar"
+hash-format = "sha1"
+hash = "557e4dba4204c4b650c616fc744521dfd325537d"
+
+[update]
+[update.curseforge]
+file-id = 2431898
+project-id = 236199

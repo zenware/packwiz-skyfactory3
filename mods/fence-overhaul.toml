@@ -1,9 +1,9 @@
 name = "Fence Overhaul"
-filename = "\[1.10.x\]FenceOverhaul-1.2.1.jar"
+filename = "[1.10.x]FenceOverhaul-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2320/259/%5B1.10.x%5DFenceOverhaul-1.2.1.jar"
+url = "https://edge.forgecdn.net/files/2320/259/[1.10.x]FenceOverhaul-1.2.1.jar"
 hash-format = "sha1"
 hash = "f47ab87103262c7a25aea2aa93507fdddd1bc7b6"
 

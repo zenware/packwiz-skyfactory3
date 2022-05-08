@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/fence-overhaul.toml"
-hash = "ca7e2e6410ff114c665dfd088a3e29a7ecf64ae6c9d2017c1fcd14faae0e3642"
+hash = "ac42276f558148c87e56af8c5aaa6155d00d1024192d8231ed9bbeb758da3b5e"
 metafile = true
 
 [[files]]
